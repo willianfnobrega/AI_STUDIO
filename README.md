@@ -3,6 +3,8 @@ python
 numpy
 flask
 
+Video Usage: https://gismauniversity-my.sharepoint.com/:v:/g/personal/willian_franco_gisma-student_com/IQDL1wdXWqcUTZIfOJgiXFW8AVXxSRMc1oHa0RL5foT1TYg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mQ0QKg
+
 Basic RL Agent
 
 This agent is in:
